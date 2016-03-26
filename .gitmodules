@@ -1,3 +1,6 @@
 [submodule "apps/projectGenerator"]
 	path = apps/projectGenerator
 	url = https://github.com/openframeworks/projectGenerator.git
+[submodule "addons/ofxKinect2ProjectorCalibration"]
+	path = addons/ofxKinect2ProjectorCalibration
+	url = https://github.com/Kj1/ofxKinect2ProjectorCalibration.git
